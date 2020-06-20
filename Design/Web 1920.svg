@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1040" viewBox="0 0 1920 1040">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 5760 3840">
+      <image width="5760" height="3840" xlink:href="Web%201920-image2.jpg"/>
+    </pattern>
+    <clipPath id="clip-Web_1920_">
+      <rect width="1920" height="1040"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_" data-name="Web 1920 " clip-path="url(#clip-Web_1920_)">
+    <rect width="1920" height="1040" fill="#2b594a"/>
+    <g id="Bg" transform="translate(-37.179)">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1682" height="1080" transform="translate(275.179)" fill="none"/>
+      <g id="Purple_Ellipse" data-name="Purple Ellipse" transform="translate(1706.179 317)" fill="#f1bdca" stroke="#707070" stroke-width="1">
+        <circle cx="97.5" cy="97.5" r="97.5" stroke="none"/>
+        <circle cx="97.5" cy="97.5" r="97" fill="none"/>
+      </g>
+      <g id="Yellow_Rect" data-name="Yellow Rect" transform="translate(68.628 651.791) rotate(42)" fill="#edcd6b" stroke="#707070" stroke-width="1">
+        <rect width="192" height="47" stroke="none"/>
+        <rect x="0.5" y="0.5" width="191" height="46" fill="none"/>
+      </g>
+    </g>
+    <g id="Hover" transform="translate(45 -20)">
+      <g id="Screen_hovered" data-name="Screen hovered" transform="translate(429 155)" fill="#22493c" stroke="#707070" stroke-width="2">
+        <rect width="375" height="810" stroke="none"/>
+        <rect x="1" y="1" width="373" height="808" fill="none"/>
+      </g>
+      <g id="Logo" transform="translate(450 221)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="68" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="67" height="69" fill="none"/>
+      </g>
+      <g id="hamburger_menu_open" data-name="hamburger menu open" transform="translate(716 221)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="68" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="67" height="69" fill="none"/>
+      </g>
+      <text id="Works" transform="translate(450 481)" fill="#fff" font-size="60" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Works</tspan></text>
+      <text id="Progress" transform="translate(450 546)" fill="#fff" font-size="52" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Progress</tspan></text>
+      <text id="About" transform="translate(450 646)" fill="#fff" font-size="60" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">About</tspan></text>
+      <text id="Contact" transform="translate(450 734)" fill="#fff" font-size="51" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Contact</tspan></text>
+      <line id="Line_1" data-name="Line 1" y2="60" transform="translate(610.5 905.5)" fill="none" stroke="#456b60" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="375" transform="translate(429.5 905.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="Call" transform="translate(497 949)" fill="#fff" font-size="26" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Call</tspan></text>
+      <text id="Mail" transform="translate(660 949)" fill="#fff" font-size="26" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Mail</tspan></text>
+      <text id="X" transform="translate(750.5 266)" fill="#fff" font-size="29" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-8.871" y="0">X</tspan></text>
+    </g>
+    <g id="No_-hover" data-name="No -hover" transform="translate(669.017 -19.854)">
+      <g id="Screen_Unhovered" data-name="Screen Unhovered" transform="translate(430.983 154.854)" fill="#fff" stroke="rgba(112,112,112,0.06)" stroke-width="2">
+        <rect width="375" height="810" stroke="none"/>
+        <rect x="1" y="1" width="373" height="808" fill="none"/>
+      </g>
+      <g id="Logo-2" data-name="Logo" transform="translate(450.983 220.854)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="68" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="67" height="69" fill="none"/>
+      </g>
+      <g id="hamburger_menu_open-2" data-name="hamburger menu open" transform="translate(717.984 220.854)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="68" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="67" height="69" fill="none"/>
+      </g>
+      <path id="Icon_awesome-bars" data-name="Icon awesome-bars" d="M1.125,9.281h29.25A1.125,1.125,0,0,0,31.5,8.156V5.344a1.125,1.125,0,0,0-1.125-1.125H1.125A1.125,1.125,0,0,0,0,5.344V8.156A1.125,1.125,0,0,0,1.125,9.281Zm0,11.25h29.25A1.125,1.125,0,0,0,31.5,19.406V16.594a1.125,1.125,0,0,0-1.125-1.125H1.125A1.125,1.125,0,0,0,0,16.594v2.813A1.125,1.125,0,0,0,1.125,20.531Zm0,11.25h29.25A1.125,1.125,0,0,0,31.5,30.656V27.844a1.125,1.125,0,0,0-1.125-1.125H1.125A1.125,1.125,0,0,0,0,27.844v2.813A1.125,1.125,0,0,0,1.125,31.781Z" transform="translate(735.965 238)" fill="#2b594a"/>
+      <text id="Smart_clean_designs_That_s_a11.studio" data-name="Smart &amp; clean designs
+That’s a11.studio" transform="translate(451.984 321.854)" fill="#2b594a" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="9.021" y="31">Smart &amp; clean designs</tspan><tspan font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="48.374" y="67">That’s a11.studio</tspan></tspan></text>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="360" height="278" transform="translate(438.983 428.854)" fill="none"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="360" height="238" transform="translate(438.983 717.854)" fill="#f8f8f8"/>
+      <text id="Architects_concept_." data-name="Architects concept
+." transform="translate(437.984 728.854)" fill="#2b594a" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="5.242" y="17">Architects concept</tspan><tspan x="76.851" y="38">.</tspan></text>
+      <text id="Hackaton_Trna" data-name="Hackaton Trna" transform="translate(627.984 728.854)" fill="#2b594a" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="21.309" y="17">Hackaton Trna</tspan></text>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="321" height="162" transform="translate(451.983 792.854)" fill="#bbb8b7"/>
+      <image id="officeWithPlant" width="360" height="202.56" transform="translate(442.984 458.854)" xlink:href="Web%201920-image.jpg"/>
+      <rect id="books" width="217" height="145" transform="translate(503.984 801.854)" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">;
+
+:root{
+  --darkGreen: rgba(43,89,74,1);
+  --veryDarkGreen: rgba(34, 73, 60, 1);
+
+
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  background-image: url(../img/Background.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.wrapper{
+  max-width:1400px;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.frame__wrapper{
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 5rem;
+
+}
+
+.frame{
+  width:375px;
+  height: 670px;
+  border: 1px solid #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
