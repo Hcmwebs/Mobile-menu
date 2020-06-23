@@ -76,17 +76,22 @@ li{
 
 @media(max-width:800px){
   .frame__wrapper{
-    width: 50%;
+    width: 100%;
     grid-template-columns: 1fr;
     grid-gap: 0;
     margin: auto;
+    
   }
   .frame{
+  width: 100%;
   height: 100vh;
   }
 }
 @media(max-width:500px){
   .frame__wrapper{
+    width: 100%;
+  }
+  .frame{
     width: 100%;
   }
 }
