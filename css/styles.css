@@ -14,7 +14,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 10px;
-  background-image: url(../img/Background.png);
+  background-image: url(../img/Background.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -51,7 +51,7 @@ li {
   align-items: center;
 }
 .frame__wrapper {
-  width: 80%;
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 5rem;
@@ -69,9 +69,8 @@ li {
 
 @media (max-width: 800px) {
   .frame__wrapper {
-    width: 100%;
     grid-template-columns: 1fr;
-    grid-gap: 0;
+    /* grid-gap: 5rem; */
     margin: auto;
   }
   .frame {
@@ -79,14 +78,11 @@ li {
     height: 100vh;
   }
 }
-@media (max-width: 500px) {
-  .frame__wrapper {
-    width: 100%;
-  }
+/* @media (max-width: 500px) {
   .frame {
     width: 100%;
   }
-}
+} */
 
 nav,
 .frame--backgroundWhite nav {
@@ -171,8 +167,9 @@ nav,
   background-color: #fff;
 }
 .nav__hamburger--right {
-  color: var(--veryDarkGreen);
+  color: #000;
 }
+
 .title {
   width: 100%;
   text-align: justify;
